@@ -152,7 +152,7 @@ Main Styles
 	
 }
 
-#logo{ background:url(../images/selfie.jpg) no-repeat; height:190px; width:160px;}
+#logo{ background:url(../images/selfie.jpg) no-repeat; height:25%;}
 
 .sidebar {
 	float: left;
